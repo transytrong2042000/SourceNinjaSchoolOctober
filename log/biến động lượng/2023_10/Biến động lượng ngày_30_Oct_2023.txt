@@ -1,0 +1,16 @@
+[2023/10/30 06:18:08] luong giam : quan123 giam -28888 luong || So luong cu: 5349467 So luong moi: 5320579 luong
+[2023/10/30 06:18:11] luong giam : quan123 giam -28888 luong || So luong cu: 5320579 So luong moi: 5291691 luong
+[2023/10/30 06:18:14] luong giam : quan123 giam -28888 luong || So luong cu: 5291691 So luong moi: 5262803 luong
+[2023/10/30 06:18:17] luong giam : quan123 giam -28888 luong || So luong cu: 5262803 So luong moi: 5233915 luong
+[2023/10/30 07:19:36] luong giam : quan123 giam -28888 luong || So luong cu: 5233915 So luong moi: 5205027 luong
+[2023/10/30 07:19:39] luong giam : quan123 giam -28888 luong || So luong cu: 5205027 So luong moi: 5176139 luong
+[2023/10/30 07:25:08] luong giam : quan123 giam -28888 luong || So luong cu: 5176139 So luong moi: 5147251 luong
+[2023/10/30 07:26:21] luong giam : quan123 giam -28888 luong || So luong cu: 5147251 So luong moi: 5118363 luong
+[2023/10/30 07:26:34] luong giam : quan123 giam -28888 luong || So luong cu: 5118363 So luong moi: 5089475 luong
+[2023/10/30 07:26:36] luong giam : quan123 giam -28888 luong || So luong cu: 5089475 So luong moi: 5060587 luong
+[2023/10/30 07:26:39] luong giam : quan123 giam -28888 luong || So luong cu: 5060587 So luong moi: 5031699 luong
+[2023/10/30 07:26:42] luong giam : quan123 giam -28888 luong || So luong cu: 5031699 So luong moi: 5002811 luong
+[2023/10/30 07:28:09] luong giam : quan123 giam -5550 luong || So luong cu: 5002811 So luong moi: 4997261 luong
+[2023/10/30 07:28:35] luong giam : quan123 giam -28888 luong || So luong cu: 4997261 So luong moi: 4968373 luong
+[2023/10/30 07:56:53] luong giam : quan123 giam -28888 luong || So luong cu: 4968373 So luong moi: 4939485 luong
+[2023/10/30 07:56:56] luong giam : quan123 giam -28888 luong || So luong cu: 4939485 So luong moi: 4910597 luong

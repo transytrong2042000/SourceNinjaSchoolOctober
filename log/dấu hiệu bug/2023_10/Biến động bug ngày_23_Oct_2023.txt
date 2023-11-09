@@ -1,0 +1,14 @@
+Time : 2023/10/23 20:26:09 luong giam : blogg giam -300000 luong || So luong cu: 6896430 So luong moi: 6596430 luong
+Time : 2023/10/23 21:04:22 luong giam : conchobietnoi giam -300000 luong || So luong cu: 6015540 So luong moi: 5715540 luong
+Time : 2023/10/23 21:04:28 luong giam : conchobietnoi giam -300000 luong || So luong cu: 5715540 So luong moi: 5415540 luong
+Time : 2023/10/23 21:05:16 luong giam : fangvl giam -300000 luong || So luong cu: 5028540 So luong moi: 4728540 luong
+Time : 2023/10/23 21:05:19 luong giam : fangvl giam -300000 luong || So luong cu: 4728540 So luong moi: 4428540 luong
+Time : 2023/10/23 21:05:22 luong giam : fangvl giam -300000 luong || So luong cu: 4428540 So luong moi: 4128540 luong
+Time : 2023/10/23 21:40:44 xu tang : blogg  tang 1989045000 xu || So xu cu: 10955000 So xu moi: 2000000000 xu
+Time : 2023/10/23 21:40:55 xu giam : blogg giam -1000000000 xu || So xu cu: 2000000000 So xu moi: 1000000000 xu
+Time : 2023/10/23 22:24:11 xu tang : kiem89pk  tang 1989010012 xu || So xu cu: 10989988 So xu moi: 2000000000 xu
+Time : 2023/10/23 22:25:08 xu giam : kiem89pk giam -1000000000 xu || So xu cu: 1900000000 So xu moi: 900000000 xu
+Time : 2023/10/23 23:12:59 GD item : conchobietnoi chuyen cho blogg Item : 788. So luong : 6588
+Time : 2023/10/23 23:12:59 GD item : conchobietnoi chuyen cho blogg Item : 789. So luong : 6739
+Time : 2023/10/23 23:17:55 xu giam : admin giam -400000000 xu || So xu cu: 455320002 So xu moi: 55320002 xu
+Time : 2023/10/23 23:18:07 xu tang : admin  tang 500000000 xu || So xu cu: 55320002 So xu moi: 555320002 xu

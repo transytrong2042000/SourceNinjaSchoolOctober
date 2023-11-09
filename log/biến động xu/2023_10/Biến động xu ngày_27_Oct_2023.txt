@@ -1,0 +1,9 @@
+[2023/10/27 01:21:58] xu tang : fangvl  tang 1999684232 xu || So xu cu: 315768 So xu moi: 2000000000 xu
+[2023/10/27 01:22:04] xu giam : fangvl giam -1000000000 xu || So xu cu: 2000000000 So xu moi: 1000000000 xu
+[2023/10/27 01:22:15] xu giam : fangvl giam -100000000 xu || So xu cu: 1000000000 So xu moi: 900000000 xu
+[2023/10/27 01:27:40] xu giam : fangvl giam -800000000 xu || So xu cu: 899955556 So xu moi: 99955556 xu
+[2023/10/27 01:27:44] xu tang : fangvl  tang 1900044444 xu || So xu cu: 99955556 So xu moi: 2000000000 xu
+[2023/10/27 17:28:48] xu giam : fangvl giam -14984344 xu || So xu cu: 99866617 So xu moi: 84882273 xu
+[2023/10/27 17:28:52] xu giam : fangvl giam -16220160 xu || So xu cu: 84882273 So xu moi: 68662113 xu
+[2023/10/27 17:28:57] xu giam : fangvl giam -16220160 xu || So xu cu: 68662113 So xu moi: 52441953 xu
+[2023/10/27 17:29:02] xu giam : fangvl giam -16220160 xu || So xu cu: 52441953 So xu moi: 36221793 xu

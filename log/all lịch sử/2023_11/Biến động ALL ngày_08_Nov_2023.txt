@@ -1,0 +1,57 @@
+Time : 2023/11/08 04:37:21 xu giam : quan123 giam -15 xu || So xu cu: 27285564 So xu moi: 27285549 xu
+Time : 2023/11/08 04:37:21 Mua shop : quan123  mua 15 item 545 voi gia 15 xu 0 yen 0 luong
+Time : 2023/11/08 04:38:34 luong giam : quan123 giam -60 luong || So luong cu: 2965972 So luong moi: 2965912 luong
+Time : 2023/11/08 04:38:34 Mua shop : quan123  mua 2 item 268 voi gia 0 xu 0 yen 60 luong
+Time : 2023/11/08 04:38:37 luong giam : quan123 giam -30 luong || So luong cu: 2965912 So luong moi: 2965882 luong
+Time : 2023/11/08 04:38:37 Mua shop : quan123  mua 1 item 280 voi gia 0 xu 0 yen 30 luong
+Time : 2023/11/08 04:38:56 luong giam : quan123 giam -30 luong || So luong cu: 2965882 So luong moi: 2965852 luong
+Time : 2023/11/08 04:38:56 Mua shop : quan123  mua 1 item 268 voi gia 0 xu 0 yen 30 luong
+Time : 2023/11/08 04:40:31 luong tang : quan123  tang 20 luong || So luong cu: 2965852 So luong moi: 2965872 luong
+Time : 2023/11/08 04:40:36 luong tang : quan123  tang 20 luong || So luong cu: 2965872 So luong moi: 2965892 luong
+Time : 2023/11/08 04:40:42 luong tang : quan123  tang 20 luong || So luong cu: 2965892 So luong moi: 2965912 luong
+Time : 2023/11/08 04:40:52 luong tang : quan123  tang 20 luong || So luong cu: 2965912 So luong moi: 2965932 luong
+Time : 2023/11/08 04:40:56 luong tang : quan123  tang 20 luong || So luong cu: 2965932 So luong moi: 2965952 luong
+Time : 2023/11/08 04:41:19 luong tang : quan123  tang 20 luong || So luong cu: 2965952 So luong moi: 2965972 luong
+Time : 2023/11/08 04:41:24 luong tang : quan123  tang 20 luong || So luong cu: 2965972 So luong moi: 2965992 luong
+Time : 2023/11/08 04:41:31 luong tang : quan123  tang 20 luong || So luong cu: 2965992 So luong moi: 2966012 luong
+Time : 2023/11/08 04:41:37 luong tang : quan123  tang 20 luong || So luong cu: 2966012 So luong moi: 2966032 luong
+Time : 2023/11/08 04:41:42 luong tang : quan123  tang 20 luong || So luong cu: 2966032 So luong moi: 2966052 luong
+Time : 2023/11/08 04:41:50 luong tang : quan123  tang 20 luong || So luong cu: 2966052 So luong moi: 2966072 luong
+Time : 2023/11/08 04:41:56 luong tang : quan123  tang 20 luong || So luong cu: 2966072 So luong moi: 2966092 luong
+Time : 2023/11/08 04:42:25 luong tang : quan123  tang 20 luong || So luong cu: 2966092 So luong moi: 2966112 luong
+Time : 2023/11/08 04:42:30 luong tang : quan123  tang 20 luong || So luong cu: 2966112 So luong moi: 2966132 luong
+Time : 2023/11/08 04:42:36 luong tang : quan123  tang 20 luong || So luong cu: 2966132 So luong moi: 2966152 luong
+Time : 2023/11/08 04:42:41 luong tang : quan123  tang 20 luong || So luong cu: 2966152 So luong moi: 2966172 luong
+Time : 2023/11/08 04:42:46 luong tang : quan123  tang 20 luong || So luong cu: 2966172 So luong moi: 2966192 luong
+Time : 2023/11/08 04:42:52 luong tang : quan123  tang 20 luong || So luong cu: 2966192 So luong moi: 2966212 luong
+Time : 2023/11/08 04:42:59 luong tang : quan123  tang 20 luong || So luong cu: 2966212 So luong moi: 2966232 luong
+Time : 2023/11/08 04:43:05 luong tang : quan123  tang 20 luong || So luong cu: 2966232 So luong moi: 2966252 luong
+Time : 2023/11/08 04:45:57 luong giam : quan123 giam -1000 luong || So luong cu: 2966252 So luong moi: 2965252 luong
+Time : 2023/11/08 04:45:57 Mua shop : quan123  mua 1 item 799 voi gia 0 xu 0 yen 1000 luong
+Time : 2023/11/08 04:45:57 Bán shop: quan123  ban Item :799. So luong: 1
+Time : 2023/11/08 04:46:14 luong giam : quan123 giam -1000 luong || So luong cu: 2965252 So luong moi: 2964252 luong
+Time : 2023/11/08 04:46:14 Mua shop : quan123  mua 1 item 799 voi gia 0 xu 0 yen 1000 luong
+Time : 2023/11/08 04:46:16 Bán shop: quan123  ban Item :799. So luong: 1
+Time : 2023/11/08 05:04:02 luong giam : quan123 giam -150 luong || So luong cu: 2964252 So luong moi: 2964102 luong
+Time : 2023/11/08 05:04:02 Mua shop : quan123  mua 5 item 240 voi gia 0 xu 0 yen 150 luong
+Time : 2023/11/08 05:04:12 luong giam : quan123 giam -150 luong || So luong cu: 2964102 So luong moi: 2963952 luong
+Time : 2023/11/08 05:04:12 Mua shop : quan123  mua 5 item 241 voi gia 0 xu 0 yen 150 luong
+Time : 2023/11/08 05:07:31 luong giam : quan123 giam -2000 luong || So luong cu: 2963952 So luong moi: 2961952 luong
+Time : 2023/11/08 05:07:31 Mua shop : quan123  mua 1 item 796 voi gia 0 xu 0 yen 2000 luong
+Time : 2023/11/08 05:08:24 luong tang : quan123  tang 500 luong || So luong cu: 2961952 So luong moi: 2962452 luong
+Time : 2023/11/08 05:08:24 xu tang : quan123  tang 1000000 xu || So xu cu: 27285549 So xu moi: 28285549 xu
+Time : 2023/11/08 05:09:20 luong giam : quan123 giam -10 luong || So luong cu: 2962452 So luong moi: 2962442 luong
+Time : 2023/11/08 05:09:20 Mua shop : quan123  mua 1 item 617 voi gia 0 xu 0 yen 10 luong
+Time : 2023/11/08 05:09:28 Bán shop: quan123  ban Item :617. So luong: 1
+Time : 2023/11/08 05:10:13 xu giam : quan123 giam -500000 xu || So xu cu: 28285549 So xu moi: 27785549 xu
+Time : 2023/11/08 05:10:13 Mua shop : quan123  mua 5 item 818 voi gia 500000 xu 0 yen 0 luong
+Time : 2023/11/08 05:11:44 luong giam : quan123 giam -100 luong || So luong cu: 2962442 So luong moi: 2962342 luong
+Time : 2023/11/08 05:11:44 Mua shop : quan123  mua 1 item 855 voi gia 0 xu 0 yen 100 luong
+Time : 2023/11/08 05:25:10 luong giam : quan123 giam -100 luong || So luong cu: 2962342 So luong moi: 2962242 luong
+Time : 2023/11/08 05:25:10 Mua shop : quan123  mua 1 item 855 voi gia 0 xu 0 yen 100 luong
+Time : 2023/11/08 05:25:15 luong giam : quan123 giam -100 luong || So luong cu: 2962242 So luong moi: 2962142 luong
+Time : 2023/11/08 05:25:15 Mua shop : quan123  mua 1 item 564 voi gia 0 xu 0 yen 100 luong
+Time : 2023/11/08 06:17:28 Mua shop : quan123  mua 1 item 35 voi gia 0 xu 1000 yen 0 luong
+Time : 2023/11/08 06:18:48 Mua shop : quan123  mua 1 item 35 voi gia 0 xu 1000 yen 0 luong
+Time : 2023/11/08 06:32:00 luong giam : quan123 giam -50 luong || So luong cu: 2962139 So luong moi: 2962089 luong
+Time : 2023/11/08 06:32:00 Mua shop : quan123  mua 1 item 538 voi gia 0 xu 0 yen 50 luong

@@ -1,0 +1,2 @@
+[2023/11/01 08:42:51] luong giam : quan123 giam -28888 luong || So luong cu: 4762358 So luong moi: 4733470 luong
+[2023/11/01 08:42:53] luong giam : quan123 giam -28888 luong || So luong cu: 4733470 So luong moi: 4704582 luong

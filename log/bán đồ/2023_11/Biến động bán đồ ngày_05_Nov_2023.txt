@@ -1,0 +1,10 @@
+Time : 2023/11/05 04:28:03 Bán shop: quan123  ban Item :6. So luong: 1
+Time : 2023/11/05 04:29:46 Bán shop: quan123  ban Item :6. So luong: 1
+Time : 2023/11/05 04:41:16 Bán shop: quan123  ban Item :577. So luong: 1
+Time : 2023/11/05 04:41:21 Bán shop: quan123  ban Item :440. So luong: 1
+Time : 2023/11/05 04:41:24 Bán shop: quan123  ban Item :487. So luong: 1
+Time : 2023/11/05 04:41:38 Bán shop: quan123  ban Item :440. So luong: 1
+Time : 2023/11/05 04:42:19 Bán shop: quan123  ban Item :576. So luong: 1
+Time : 2023/11/05 04:42:21 Bán shop: quan123  ban Item :573. So luong: 1
+Time : 2023/11/05 04:46:50 Bán shop: quan123  ban Item :487. So luong: 1
+Time : 2023/11/05 05:51:22 Bán shop: quan123  ban Item :6. So luong: 1

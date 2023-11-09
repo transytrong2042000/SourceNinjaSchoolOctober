@@ -1,0 +1,16 @@
+Time : 2023/10/30 06:18:08 Mua shop : quan123  mua 28888 item 672 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 06:18:11 Mua shop : quan123  mua 28888 item 672 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 06:18:14 Mua shop : quan123  mua 28888 item 671 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 06:18:17 Mua shop : quan123  mua 28888 item 671 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 07:19:36 Mua shop : quan123  mua 28888 item 672 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 07:19:39 Mua shop : quan123  mua 28888 item 671 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 07:25:08 Mua shop : quan123  mua 28888 item 671 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 07:26:21 Mua shop : quan123  mua 28888 item 671 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 07:26:34 Mua shop : quan123  mua 28888 item 672 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 07:26:36 Mua shop : quan123  mua 28888 item 672 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 07:26:39 Mua shop : quan123  mua 28888 item 671 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 07:26:42 Mua shop : quan123  mua 28888 item 671 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 07:28:09 Mua shop : quan123  mua 555 item 340 voi gia 0 xu 0 yen 5550 luong
+Time : 2023/10/30 07:28:35 Mua shop : quan123  mua 28888 item 672 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 07:56:53 Mua shop : quan123  mua 28888 item 672 voi gia 0 xu 0 yen 28888 luong
+Time : 2023/10/30 07:56:56 Mua shop : quan123  mua 28888 item 671 voi gia 0 xu 0 yen 28888 luong

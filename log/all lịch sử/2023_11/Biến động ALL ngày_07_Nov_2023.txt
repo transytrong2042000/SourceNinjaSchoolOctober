@@ -1,0 +1,61 @@
+Time : 2023/11/07 07:03:14 Mua shop : lenhai  mua 1 item 545 voi gia 1 xu 0 yen 0 luong
+Time : 2023/11/07 07:03:38 luong giam : lenhai giam -50 luong || So luong cu: 4237711 So luong moi: 4237661 luong
+Time : 2023/11/07 07:03:38 Mua shop : lenhai  mua 1 item 30 voi gia 0 xu 0 yen 50 luong
+Time : 2023/11/07 07:05:21 luong giam : lenhai giam -1000 luong || So luong cu: 4237661 So luong moi: 4236661 luong
+Time : 2023/11/07 07:05:21 Mua shop : lenhai  mua 1 item 800 voi gia 0 xu 0 yen 1000 luong
+Time : 2023/11/07 07:05:23 luong giam : lenhai giam -2000 luong || So luong cu: 4236661 So luong moi: 4234661 luong
+Time : 2023/11/07 07:05:23 Mua shop : lenhai  mua 1 item 795 voi gia 0 xu 0 yen 2000 luong
+Time : 2023/11/07 07:05:54 luong giam : lenhai giam -2000 luong || So luong cu: 4234661 So luong moi: 4232661 luong
+Time : 2023/11/07 07:05:54 Mua shop : lenhai  mua 1 item 795 voi gia 0 xu 0 yen 2000 luong
+Time : 2023/11/07 07:05:55 luong giam : lenhai giam -1000 luong || So luong cu: 4232661 So luong moi: 4231661 luong
+Time : 2023/11/07 07:05:55 Mua shop : lenhai  mua 1 item 799 voi gia 0 xu 0 yen 1000 luong
+Time : 2023/11/07 07:05:56 luong giam : lenhai giam -1000 luong || So luong cu: 4231661 So luong moi: 4230661 luong
+Time : 2023/11/07 07:05:56 Mua shop : lenhai  mua 1 item 800 voi gia 0 xu 0 yen 1000 luong
+Time : 2023/11/07 07:06:07 Bán shop: lenhai  ban Item :799. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :407. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :788. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :801. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :338. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :839. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :776. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :813. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :451. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :450. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :814. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :802. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :338. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :407. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :1024. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :813. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :803. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :839. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :825. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :776. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :449. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :775. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :839. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :825. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :789. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :839. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :802. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :338. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :817. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :443. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :698. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :776. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :801. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :803. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :802. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :9. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :825. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :814. So luong: 1
+Time : 2023/11/07 07:07:31 Bán shop: lenhai  ban Item :443. So luong: 1
+Time : 2023/11/07 07:07:32 Bán shop: lenhai  ban Item :451. So luong: 1
+Time : 2023/11/07 07:07:32 Bán shop: lenhai  ban Item :788. So luong: 1
+Time : 2023/11/07 07:07:32 Bán shop: lenhai  ban Item :451. So luong: 1
+Time : 2023/11/07 07:07:32 Bán shop: lenhai  ban Item :1024. So luong: 1
+Time : 2023/11/07 07:07:32 Bán shop: lenhai  ban Item :775. So luong: 1
+Time : 2023/11/07 07:07:32 Bán shop: lenhai  ban Item :788. So luong: 1
+Time : 2023/11/07 07:07:32 Bán shop: lenhai  ban Item :775. So luong: 1
+Time : 2023/11/07 07:08:11 luong giam : lenhai giam -50 luong || So luong cu: 4230661 So luong moi: 4230611 luong
+Time : 2023/11/07 07:08:11 Mua shop : lenhai  mua 1 item 30 voi gia 0 xu 0 yen 50 luong

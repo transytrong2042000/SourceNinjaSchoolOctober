@@ -1,0 +1,5 @@
+[2023/11/07 07:05:21] luong giam : lenhai giam -1000 luong || So luong cu: 4237661 So luong moi: 4236661 luong
+[2023/11/07 07:05:23] luong giam : lenhai giam -2000 luong || So luong cu: 4236661 So luong moi: 4234661 luong
+[2023/11/07 07:05:54] luong giam : lenhai giam -2000 luong || So luong cu: 4234661 So luong moi: 4232661 luong
+[2023/11/07 07:05:55] luong giam : lenhai giam -1000 luong || So luong cu: 4232661 So luong moi: 4231661 luong
+[2023/11/07 07:05:56] luong giam : lenhai giam -1000 luong || So luong cu: 4231661 So luong moi: 4230661 luong

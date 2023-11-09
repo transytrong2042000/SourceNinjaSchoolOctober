@@ -1,0 +1,13 @@
+[2023/10/23 12:48:21] xu tang : coffee  tang 10000000 xu || So xu cu: 0 So xu moi: 10000000 xu
+[2023/10/23 19:54:33] xu tang : blogg  tang 10000000 xu || So xu cu: 1000000 So xu moi: 11000000 xu
+[2023/10/23 20:28:14] xu tang : kiem89pk  tang 10000000 xu || So xu cu: 1000000 So xu moi: 11000000 xu
+[2023/10/23 20:35:36] xu tang : conchobietnoi  tang 10000000 xu || So xu cu: 1000000 So xu moi: 11000000 xu
+[2023/10/23 20:38:37] xu tang : fangvl  tang 10000000 xu || So xu cu: 1000000 So xu moi: 11000000 xu
+[2023/10/23 20:56:50] xu tang : tieu89pk  tang 10000000 xu || So xu cu: 1000000 So xu moi: 11000000 xu
+[2023/10/23 21:40:43] xu tang : blogg  tang 1989045000 xu || So xu cu: 10955000 So xu moi: 2000000000 xu
+[2023/10/23 21:40:55] xu giam : blogg giam -1000000000 xu || So xu cu: 2000000000 So xu moi: 1000000000 xu
+[2023/10/23 22:24:11] xu tang : kiem89pk  tang 1989010012 xu || So xu cu: 10989988 So xu moi: 2000000000 xu
+[2023/10/23 22:24:57] xu giam : kiem89pk giam -100000000 xu || So xu cu: 2000000000 So xu moi: 1900000000 xu
+[2023/10/23 22:25:08] xu giam : kiem89pk giam -1000000000 xu || So xu cu: 1900000000 So xu moi: 900000000 xu
+[2023/10/23 23:17:55] xu giam : admin giam -400000000 xu || So xu cu: 455320002 So xu moi: 55320002 xu
+[2023/10/23 23:18:07] xu tang : admin  tang 500000000 xu || So xu cu: 55320002 So xu moi: 555320002 xu

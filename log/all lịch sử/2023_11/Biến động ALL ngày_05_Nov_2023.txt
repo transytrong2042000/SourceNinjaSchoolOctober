@@ -1,0 +1,14 @@
+Time : 2023/11/05 03:29:58 xu giam : quan123 giam -5 xu || So xu cu: 27285574 So xu moi: 27285569 xu
+Time : 2023/11/05 03:29:58 Mua shop : quan123  mua 5 item 545 voi gia 5 xu 0 yen 0 luong
+Time : 2023/11/05 03:35:49 luong giam : quan123 giam -10 luong || So luong cu: 3002867 So luong moi: 3002857 luong
+Time : 2023/11/05 03:35:49 Mua shop : quan123  mua 1 item 248 voi gia 0 xu 0 yen 10 luong
+Time : 2023/11/05 04:28:03 Bán shop: quan123  ban Item :6. So luong: 1
+Time : 2023/11/05 04:29:46 Bán shop: quan123  ban Item :6. So luong: 1
+Time : 2023/11/05 04:41:16 Bán shop: quan123  ban Item :577. So luong: 1
+Time : 2023/11/05 04:41:21 Bán shop: quan123  ban Item :440. So luong: 1
+Time : 2023/11/05 04:41:24 Bán shop: quan123  ban Item :487. So luong: 1
+Time : 2023/11/05 04:41:38 Bán shop: quan123  ban Item :440. So luong: 1
+Time : 2023/11/05 04:42:19 Bán shop: quan123  ban Item :576. So luong: 1
+Time : 2023/11/05 04:42:21 Bán shop: quan123  ban Item :573. So luong: 1
+Time : 2023/11/05 04:46:50 Bán shop: quan123  ban Item :487. So luong: 1
+Time : 2023/11/05 05:51:22 Bán shop: quan123  ban Item :6. So luong: 1

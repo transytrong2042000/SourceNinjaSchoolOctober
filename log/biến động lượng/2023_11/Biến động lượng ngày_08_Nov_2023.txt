@@ -1,0 +1,3 @@
+[2023/11/08 04:45:57] luong giam : quan123 giam -1000 luong || So luong cu: 2966252 So luong moi: 2965252 luong
+[2023/11/08 04:46:14] luong giam : quan123 giam -1000 luong || So luong cu: 2965252 So luong moi: 2964252 luong
+[2023/11/08 05:07:31] luong giam : quan123 giam -2000 luong || So luong cu: 2963952 So luong moi: 2961952 luong
